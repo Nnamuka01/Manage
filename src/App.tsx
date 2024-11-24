@@ -1,4 +1,3 @@
-import React from "react";
 import Landing from "./component/Landing";
 
 function App() {
